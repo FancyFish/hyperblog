@@ -36,4 +36,9 @@ body{
     padding: 0.5em;
     background: whitesmoke;
 }
-
+#footer{
+    background: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}

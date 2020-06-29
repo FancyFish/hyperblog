@@ -30,4 +30,9 @@ body{
 #post{
     padding: 0.5em;
 }
-
+#footer{
+    background: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}
